@@ -1,4 +1,5 @@
 # Welcome to my Nakama
+![Luffy & Nami](Images/Luffy_Nami.JPEG)
 ## 👋  Hi, I’m Brien Simmons
 - 👀 I’m interested in Writing, Music, Nature, Gaming & Anime 
 - 🌱 I’m currently learning the begining stages of coding
@@ -8,7 +9,7 @@
 ## PSN: MonkeyDYee
 
 ## The One Piece Is Real
-![One Piece](Images/Slide_1_preview.webp))
+![One Piece](Images/Slide_1_preview.webp)
 <!---
 MonkeyDYee/MonkeyDYee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
