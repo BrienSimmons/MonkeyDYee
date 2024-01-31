@@ -17,7 +17,7 @@
 
 ## PSN: MonkeyDYee
 ![PS5](Images/PS5.gif)
-- Sports,Fighting, Shooting, Adventure & Battle Royale
+- Sports, Fighting, Shooting, Adventure & Battle Royale
 
 ## The One Piece Is Real
 ![One Piece](Images/Slide_1_preview.webp)
