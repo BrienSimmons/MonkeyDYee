@@ -2,7 +2,7 @@
 ![Luffy & Nami](Images/Luffy_Nami.JPEG)
 
 ## Hi, I’m Brien Simmons
-![Jack](Images/Jack.jpeg)
+
 -  I’m interested in Writing, Music, Nature, Gaming & Anime 
 -  Pronouns: He/Him
 -  Fun fact: I've been out the country
